@@ -1,6 +1,6 @@
 const CACHE_NAME = 'loemii-cache-v1';
 const urlsToCache = [
-  'https://script.google.com/macros/s/AKfycbyQl4kf0v_WYrqt1Ol0MOR2YGolf013M0YMyBU0hZ8a0q1sGjo_7AW6lu1wqBC8l_LO/exec',
+  'https://script.google.com/macros/s/AKfycbzEbfPbgLiKnj0Zp7uaoGtA8fgOYKVXa-_Nn8mLVIniCK2FepS0yVTn2R7QOmKCWCFz/exec',
 ];
 
 self.addEventListener('install', event => {
