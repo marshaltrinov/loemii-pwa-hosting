@@ -1,10 +1,11 @@
 {
-  "name": "LOEMII PRICE CALCULATOR",
-  "short_name": "LOEMII",
-  "start_url": "https://script.google.com/macros/s/AKfycbzEbfPbgLiKnj0Zp7uaoGtA8fgOYKVXa-_Nn8mLVIniCK2FepS0yVTn2R7QOmKCWCFz/exec",
+  "name": "LOEMII Order Calculator",
+  "short_name": "LOEMII Calculator",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#007bff",
+  "description": "An app to calculate and save orders for LOEMII",
   "icons": [
     {
       "src": "/icons/icon-192x192.png",
@@ -18,4 +19,3 @@
     }
   ]
 }
-
